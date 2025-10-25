@@ -93,7 +93,7 @@ $FoldersToBackup = @(
    
    - In **Add arguments** field, type:
      ```
-     -ExecutionPolicy Bypass -File "C:\Path\To\Your\Script\PSBackupMyFiles_v0_4_NetworkSupport.ps1"
+     -ExecutionPolicy Bypass -File "C:\Path\To\Your\Script\PSBackupMyFiles_v0_4.ps1"
      ```
      ⚠️ **Change the path to where you actually saved the script!**
 
