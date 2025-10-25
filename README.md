@@ -158,7 +158,7 @@ By default, it backs up these file types:
 - **Documents**: .pdf, .doc, .docx, .xls, .xlsx, .ppt, .pptx, .csv, .txt, .pub
 - **eBooks**: .epub, .mobi, .azw, .azw3
 
-You can add more file types by editing the `$Extensions` array in the script (around line 51).
+You can add more file types by editing the `$Extensions` array in the script (around line 57).
 
 ---
 
